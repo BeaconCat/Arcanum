@@ -1,0 +1,205 @@
+/*
+ * 天枢 Arcanum — design tokens
+ * 浅色：宣纸 + 墨 + 铜金；深色：夜墨 + 鎏金。
+ * 页面与组件只引用这里的变量，不再写死色值。
+ */
+:root {
+  color-scheme: light;
+
+  /* ── Surfaces ── */
+  --color-bg-primary: #f6f3ee;      /* 页面底色（宣纸） */
+  --color-bg-secondary: #fffdf9;    /* 卡片 */
+  --color-bg-tertiary: #efeae2;     /* 内嵌块 / hover */
+  --color-bg-elevated: #ffffff;     /* 弹窗 / 浮层 */
+  --color-bg-sunken: #e9e3d9;
+  --color-overlay: rgba(28, 22, 16, 0.42);
+
+  /* ── Text ── */
+  --color-text-primary: #1f1b16;
+  --color-text-secondary: #57504a;
+  --color-text-muted: #8f877e;
+  --color-text-inverse: #ffffff;
+
+  /* ── Borders ── */
+  --color-border: #e3ddd3;
+  --color-border-strong: #cfc6b8;
+
+  /* ── Brand ── */
+  --color-accent: #8b5e3c;
+  --color-accent-hover: #74492b;
+  --color-accent-rgb: 139, 94, 60;
+  --accent-rgb: var(--color-accent-rgb);
+  --color-accent-soft: rgba(var(--color-accent-rgb), 0.1);
+  --color-accent-soft-strong: rgba(var(--color-accent-rgb), 0.18);
+  --color-accent-contrast: #ffffff;
+  --color-seal: #a8321a;            /* 朱砂印 */
+  --color-gold: #b88a3a;
+
+  /* ── Semantic ── */
+  --color-success: #2e7d32;
+  --color-success-soft: rgba(46, 125, 50, 0.1);
+  --color-warning: #c25e00;
+  --color-warning-soft: rgba(194, 94, 0, 0.1);
+  --color-error: #c62828;
+  --color-error-soft: rgba(198, 40, 40, 0.09);
+  --color-info: #1565c0;
+  --color-info-soft: rgba(21, 101, 192, 0.09);
+  /* legacy aliases */
+  --color-danger: var(--color-error);
+  --color-text: var(--color-text-primary);
+  --color-bg: var(--color-bg-secondary);
+
+  /* ── 五行 ── */
+  --wx-wood: #2e7d32;
+  --wx-fire: #c62828;
+  --wx-earth: #8d6e00;
+  --wx-metal: #8a8378;
+  --wx-water: #1565c0;
+  --wx-wood-bar: #4caf50;
+  --wx-fire-bar: #ef5350;
+  --wx-earth-bar: #c9a825;
+  --wx-metal-bar: #b4ada3;
+  --wx-water-bar: #42a5f5;
+
+  /* ── 四化 ── */
+  --hua-lu: #2e7d32;
+  --hua-quan: #c62828;
+  --hua-ke: #1565c0;
+  --hua-ji: #6a1b9a;
+
+  /* ── 吉 / 凶 ── */
+  --color-ji: var(--color-success);
+  --color-ji-soft: var(--color-success-soft);
+  --color-xiong: var(--color-error);
+  --color-xiong-soft: var(--color-error-soft);
+
+  /* Fortune rating colors (legacy) */
+  --color-fortune-great: #c62828;
+  --color-fortune-good: #e65100;
+  --color-fortune-neutral: #9e9e9e;
+  --color-fortune-bad: #4a148c;
+  --color-fortune-terrible: #1a237e;
+
+  /* Fortune level bg + text */
+  --color-level-great-bg: #e6f3e7;
+  --color-level-great-text: #2e7d32;
+  --color-level-great-border: transparent;
+  --color-level-good-bg: #eff6e6;
+  --color-level-good-text: #558b2f;
+  --color-level-good-border: transparent;
+  --color-level-neutral-bg: #f1eeea;
+  --color-level-neutral-text: #6b645d;
+  --color-level-neutral-border: transparent;
+  --color-level-bad-bg: #fdf0e1;
+  --color-level-bad-text: #d35400;
+  --color-level-bad-border: transparent;
+  --color-level-terrible-bg: #fce9e9;
+  --color-level-terrible-text: #c62828;
+  --color-level-terrible-border: transparent;
+
+  /* ── Spacing ── */
+  --space-2xs: 2px;
+  --space-xs: 4px;
+  --space-sm: 8px;
+  --space-md: 16px;
+  --space-lg: 24px;
+  --space-xl: 32px;
+  --space-2xl: 48px;
+
+  /* ── Radius ── */
+  --radius-sm: 6px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --radius-xl: 16px;
+  --radius-full: 9999px;
+
+  /* ── Shadow ── */
+  --shadow-sm: 0 1px 2px rgba(60, 40, 20, 0.05);
+  --shadow-md: 0 4px 14px rgba(60, 40, 20, 0.08);
+  --shadow-lg: 0 12px 32px rgba(60, 40, 20, 0.14);
+  --focus-ring: 0 0 0 3px rgba(var(--color-accent-rgb), 0.28);
+
+  /* ── Motion ── */
+  --transition-fast: 150ms ease;
+  --transition-normal: 250ms ease;
+
+  /* ── Layout ── */
+  --sidebar-width: 232px;
+  --header-height: 56px;
+  --content-max: 1080px;
+  --z-sticky: 50;
+  --z-drawer: 900;
+  --z-modal: 1000;
+  --z-toast: 3000;
+}
+
+[data-theme='dark'] {
+  color-scheme: dark;
+
+  --color-bg-primary: #101217;
+  --color-bg-secondary: #171a21;
+  --color-bg-tertiary: #20242d;
+  --color-bg-elevated: #1c2028;
+  --color-bg-sunken: #0c0e12;
+  --color-overlay: rgba(0, 0, 0, 0.6);
+
+  --color-text-primary: #ebe7e0;
+  --color-text-secondary: #b3ada4;
+  --color-text-muted: #7c776f;
+  --color-text-inverse: #15171c;
+
+  --color-border: #2b303a;
+  --color-border-strong: #3b414d;
+
+  --color-accent: #d2a86a;
+  --color-accent-hover: #e2bb80;
+  --color-accent-rgb: 210, 168, 106;
+  --color-accent-contrast: #1a1510;
+  --color-seal: #c9472c;
+  --color-gold: #e0b56a;
+
+  --color-success: #7bc67f;
+  --color-success-soft: rgba(123, 198, 127, 0.12);
+  --color-warning: #f0a35c;
+  --color-warning-soft: rgba(240, 163, 92, 0.12);
+  --color-error: #ef7b73;
+  --color-error-soft: rgba(239, 123, 115, 0.12);
+  --color-info: #74aef0;
+  --color-info-soft: rgba(116, 174, 240, 0.12);
+
+  --wx-wood: #7bc67f;
+  --wx-fire: #ef7b73;
+  --wx-earth: #d9b44a;
+  --wx-metal: #c2bcb2;
+  --wx-water: #74aef0;
+  --wx-wood-bar: #5fb864;
+  --wx-fire-bar: #e5655c;
+  --wx-earth-bar: #c9a432;
+  --wx-metal-bar: #9d978d;
+  --wx-water-bar: #4f98e6;
+
+  --hua-lu: #7bc67f;
+  --hua-quan: #ef7b73;
+  --hua-ke: #74aef0;
+  --hua-ji: #c592e8;
+
+  --color-level-great-bg: #17301c;
+  --color-level-great-text: #86cf8a;
+  --color-level-great-border: #2c5a33;
+  --color-level-good-bg: #212f17;
+  --color-level-good-text: #b5d88a;
+  --color-level-good-border: #435a2a;
+  --color-level-neutral-bg: #23262d;
+  --color-level-neutral-text: #b9b4ab;
+  --color-level-neutral-border: #3a3f49;
+  --color-level-bad-bg: #33220f;
+  --color-level-bad-text: #f3ae74;
+  --color-level-bad-border: #6a4219;
+  --color-level-terrible-bg: #361618;
+  --color-level-terrible-text: #f19a93;
+  --color-level-terrible-border: #6d2a2a;
+
+  --shadow-sm: 0 1px 2px rgba(0, 0, 0, 0.3);
+  --shadow-md: 0 4px 14px rgba(0, 0, 0, 0.35);
+  --shadow-lg: 0 12px 32px rgba(0, 0, 0, 0.5);
+}

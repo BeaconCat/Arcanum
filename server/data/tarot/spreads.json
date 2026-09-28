@@ -1,0 +1,136 @@
+[
+  {
+    "id": "single", "name": "单张指引", "category": "quick", "categoryName": "快速指引",
+    "description": "抽一张牌作为当下的提示。适合每日一问，或想快速得到一个方向感的时候。",
+    "suitableFor": ["今日提示", "简单是非", "心情疏导"],
+    "aspect": 1,
+    "positions": [
+      { "id": 1, "name": "指引", "meaning": "此刻最需要留意的讯息或态度。", "x": 50, "y": 50 }
+    ]
+  },
+  {
+    "id": "three-time", "name": "时间之流", "category": "timeline", "categoryName": "时间脉络",
+    "description": "三张牌依次读出过去的来由、现在的处境与未来的走向，看清一件事的发展线索。",
+    "suitableFor": ["事情走向", "感情发展", "近期运势"],
+    "aspect": 2.2,
+    "positions": [
+      { "id": 1, "name": "过去", "meaning": "事情的起因，或仍在影响你的旧经验。", "x": 20, "y": 50 },
+      { "id": 2, "name": "现在", "meaning": "当前的状态与核心议题。", "x": 50, "y": 50 },
+      { "id": 3, "name": "未来", "meaning": "按现有方向发展下去的可能趋势。", "x": 80, "y": 50 }
+    ]
+  },
+  {
+    "id": "three-advice", "name": "解局三张", "category": "quick", "categoryName": "快速指引",
+    "description": "看清现状、找到真正的阻碍，再得到一条可行的建议。适合被某件事卡住的时候。",
+    "suitableFor": ["遇到瓶颈", "工作难题", "人际困扰"],
+    "aspect": 2.2,
+    "positions": [
+      { "id": 1, "name": "现状", "meaning": "你目前所处的真实状况。", "x": 20, "y": 50 },
+      { "id": 2, "name": "阻碍", "meaning": "卡住你的关键因素，可能来自外在，也可能来自内心。", "x": 50, "y": 50 },
+      { "id": 3, "name": "建议", "meaning": "可以采取的态度或行动。", "x": 80, "y": 50 }
+    ]
+  },
+  {
+    "id": "two-choices", "name": "二选一", "category": "decision", "categoryName": "抉择",
+    "description": "当你在两个选项之间犹豫，分别看看每条路的现状与结果，再听一听来自内心的建议。",
+    "suitableFor": ["工作选择", "要不要做某事", "两个对象"],
+    "aspect": 1.4,
+    "positions": [
+      { "id": 1, "name": "你的现状", "meaning": "做选择时你的心态与处境。", "x": 50, "y": 82 },
+      { "id": 2, "name": "选项A · 过程", "meaning": "选择 A 时会经历的状况。", "x": 22, "y": 50 },
+      { "id": 3, "name": "选项A · 结果", "meaning": "选择 A 可能带来的结果。", "x": 22, "y": 18 },
+      { "id": 4, "name": "选项B · 过程", "meaning": "选择 B 时会经历的状况。", "x": 78, "y": 50 },
+      { "id": 5, "name": "选项B · 结果", "meaning": "选择 B 可能带来的结果。", "x": 78, "y": 18 }
+    ]
+  },
+  {
+    "id": "lovers", "name": "恋人牌阵", "category": "relationship", "categoryName": "关系",
+    "description": "分别看你与对方的心意、彼此关系的现状与阻碍，以及关系可能的走向。",
+    "suitableFor": ["对方怎么想", "关系前景", "复合可能"],
+    "aspect": 1.5,
+    "positions": [
+      { "id": 1, "name": "你的心意", "meaning": "你在这段关系中的真实感受与期待。", "x": 18, "y": 30 },
+      { "id": 2, "name": "对方的心意", "meaning": "对方目前对你、对关系的态度。", "x": 82, "y": 30 },
+      { "id": 3, "name": "关系现状", "meaning": "两人之间此刻的状态。", "x": 50, "y": 30 },
+      { "id": 4, "name": "阻碍", "meaning": "影响关系发展的主要因素。", "x": 50, "y": 72 },
+      { "id": 5, "name": "走向", "meaning": "关系在近期可能的发展方向。", "x": 82, "y": 72 },
+      { "id": 6, "name": "建议", "meaning": "你可以如何经营这段关系。", "x": 18, "y": 72 }
+    ]
+  },
+  {
+    "id": "celtic-cross", "name": "凯尔特十字", "category": "holistic", "categoryName": "全局洞察",
+    "description": "最经典的十张牌阵，从核心处境、阻碍、潜意识到外在环境与最终结果，全面审视一个重要问题。",
+    "suitableFor": ["重大决定", "人生课题", "复杂局面"],
+    "aspect": 1.3,
+    "positions": [
+      { "id": 1, "name": "核心", "meaning": "问题的核心与当前处境。", "x": 30, "y": 50 },
+      { "id": 2, "name": "交叉", "meaning": "横在面前的挑战或助力。", "x": 30, "y": 50, "rotation": 90 },
+      { "id": 3, "name": "根基", "meaning": "问题的深层根源与潜意识。", "x": 30, "y": 85 },
+      { "id": 4, "name": "过去", "meaning": "正在淡出的过往影响。", "x": 8, "y": 50 },
+      { "id": 5, "name": "显意识", "meaning": "你有意识追求的目标或最好的可能。", "x": 30, "y": 15 },
+      { "id": 6, "name": "近未来", "meaning": "即将出现的发展。", "x": 52, "y": 50 },
+      { "id": 7, "name": "自我", "meaning": "你在此事中的态度与位置。", "x": 80, "y": 88 },
+      { "id": 8, "name": "环境", "meaning": "周围的人与外部环境的影响。", "x": 80, "y": 63 },
+      { "id": 9, "name": "希望与恐惧", "meaning": "你内心的期待与担忧。", "x": 80, "y": 38 },
+      { "id": 10, "name": "结果", "meaning": "综合各种因素后的可能结局。", "x": 80, "y": 13 }
+    ]
+  },
+  {
+    "id": "horseshoe", "name": "马蹄牌阵", "category": "timeline", "categoryName": "时间脉络",
+    "description": "七张牌排成马蹄形，从过去、现在、隐藏因素一路看到外界影响与最终结果，适合梳理一件事的来龙去脉。",
+    "suitableFor": ["项目进展", "事情全貌", "阶段规划"],
+    "aspect": 1.6,
+    "positions": [
+      { "id": 1, "name": "过去", "meaning": "影响此事的过往。", "x": 8, "y": 25 },
+      { "id": 2, "name": "现在", "meaning": "目前的状况。", "x": 20, "y": 58 },
+      { "id": 3, "name": "隐藏因素", "meaning": "尚未察觉但在起作用的因素。", "x": 35, "y": 82 },
+      { "id": 4, "name": "阻碍", "meaning": "需要克服的困难。", "x": 50, "y": 88 },
+      { "id": 5, "name": "外界影响", "meaning": "他人与环境带来的影响。", "x": 65, "y": 82 },
+      { "id": 6, "name": "建议", "meaning": "最合适的行动方向。", "x": 80, "y": 58 },
+      { "id": 7, "name": "结果", "meaning": "可能的最终走向。", "x": 92, "y": 25 }
+    ]
+  },
+  {
+    "id": "mind-body-spirit", "name": "身心灵", "category": "holistic", "categoryName": "全局洞察",
+    "description": "分别从身体、心理与灵性三个层面看看自己的状态，适合做自我觉察与调整。",
+    "suitableFor": ["状态自查", "情绪低落", "自我成长"],
+    "aspect": 2,
+    "positions": [
+      { "id": 1, "name": "身", "meaning": "身体与日常生活的状态。", "x": 20, "y": 60 },
+      { "id": 2, "name": "心", "meaning": "情绪与思想层面的状态。", "x": 50, "y": 40 },
+      { "id": 3, "name": "灵", "meaning": "内在方向与更深的需要。", "x": 80, "y": 60 }
+    ]
+  },
+  {
+    "id": "four-elements", "name": "四元素", "category": "holistic", "categoryName": "全局洞察",
+    "description": "以火、水、风、土四种元素分别对应行动、情感、思考与物质，检视生活各方面是否平衡。",
+    "suitableFor": ["生活平衡", "近期全面运势", "找出短板"],
+    "aspect": 1.2,
+    "positions": [
+      { "id": 1, "name": "火 · 行动", "meaning": "热情、动力与行动方面。", "x": 50, "y": 15 },
+      { "id": 2, "name": "水 · 情感", "meaning": "感情与人际关系方面。", "x": 85, "y": 50 },
+      { "id": 3, "name": "风 · 思考", "meaning": "想法、沟通与决策方面。", "x": 15, "y": 50 },
+      { "id": 4, "name": "土 · 物质", "meaning": "工作、金钱与身体方面。", "x": 50, "y": 85 }
+    ]
+  },
+  {
+    "id": "year-ahead", "name": "年度十二宫", "category": "timeline", "categoryName": "时间脉络",
+    "description": "十二张牌对应未来十二个月（或占星十二宫的生活领域），为新的一年做整体展望。",
+    "suitableFor": ["年度运势", "生日展望", "新年计划"],
+    "aspect": 1,
+    "positions": [
+      { "id": 1, "name": "第一个月", "meaning": "开局的状态与主题。", "x": 50, "y": 8 },
+      { "id": 2, "name": "第二个月", "meaning": "该月的重点与提醒。", "x": 71, "y": 14 },
+      { "id": 3, "name": "第三个月", "meaning": "该月的重点与提醒。", "x": 86, "y": 29 },
+      { "id": 4, "name": "第四个月", "meaning": "该月的重点与提醒。", "x": 92, "y": 50 },
+      { "id": 5, "name": "第五个月", "meaning": "该月的重点与提醒。", "x": 86, "y": 71 },
+      { "id": 6, "name": "第六个月", "meaning": "该月的重点与提醒。", "x": 71, "y": 86 },
+      { "id": 7, "name": "第七个月", "meaning": "该月的重点与提醒。", "x": 50, "y": 92 },
+      { "id": 8, "name": "第八个月", "meaning": "该月的重点与提醒。", "x": 29, "y": 86 },
+      { "id": 9, "name": "第九个月", "meaning": "该月的重点与提醒。", "x": 14, "y": 71 },
+      { "id": 10, "name": "第十个月", "meaning": "该月的重点与提醒。", "x": 8, "y": 50 },
+      { "id": 11, "name": "第十一个月", "meaning": "该月的重点与提醒。", "x": 14, "y": 29 },
+      { "id": 12, "name": "第十二个月", "meaning": "年末的收获与总结。", "x": 29, "y": 14 }
+    ]
+  }
+]

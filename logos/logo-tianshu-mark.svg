@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 天枢 · 印章风（方形实底，适合小尺寸 favicon） -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <defs>
+    <linearGradient id="seal" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#b8351a"/>
+      <stop offset="100%" stop-color="#7a1d08"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Seal background -->
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="url(#seal)"/>
+  <rect x="5" y="5" width="54" height="54" rx="7" fill="none" stroke="#fff5e6" stroke-width="1.4" opacity="0.95"/>
+
+  <!-- Stylized "天" character built from lines + star -->
+  <g stroke="#fff5e6" stroke-width="3" stroke-linecap="round" fill="none">
+    <!-- top horizontal -->
+    <line x1="16" y1="18" x2="48" y2="18"/>
+    <!-- second horizontal -->
+    <line x1="20" y1="28" x2="44" y2="28"/>
+    <!-- left diagonal (stroke) -->
+    <line x1="32" y1="28" x2="18" y2="50"/>
+    <!-- right diagonal -->
+    <line x1="32" y1="28" x2="46" y2="50"/>
+  </g>
+
+  <!-- Small star above (北斗/天枢 hint) -->
+  <g fill="#ffe9a8">
+    <circle cx="32" cy="10" r="1.6"/>
+    <circle cx="26" cy="12" r="0.9"/>
+    <circle cx="38" cy="12" r="0.9"/>
+  </g>
+</svg>

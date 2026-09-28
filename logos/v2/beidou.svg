@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64"><defs><radialGradient id="g3" cx=".75" cy=".25" r="1"><stop offset="0" stop-color="#2b3350"/><stop offset=".6" stop-color="#171b2b"/><stop offset="1" stop-color="#0e1019"/></radialGradient></defs><rect x="2" y="2" width="60" height="60" rx="14" fill="url(#g3)"/>
+     <path d="M7 47 L16.5 36.5 L25.5 31.5 L35 31 L37.5 45 L53 47 L54.5 25 L35 31" fill="none" stroke="#e6c27a" stroke-width="1.8" stroke-linejoin="round" opacity=".6"/>
+     <circle cx="7" cy="47" r="3.1" fill="#f6e7c4"/><circle cx="16.5" cy="36.5" r="3.1" fill="#f6e7c4"/><circle cx="25.5" cy="31.5" r="3.1" fill="#f6e7c4"/><circle cx="35" cy="31" r="3.1" fill="#f6e7c4"/><circle cx="37.5" cy="45" r="3.1" fill="#f6e7c4"/><circle cx="53" cy="47" r="3.1" fill="#f6e7c4"/>
+     <circle cx="54.5" cy="25" r="8" fill="#f3cf7a" opacity=".2"/>
+     <polygon points="54.50,16.40 56.13,23.37 63.10,25.00 56.13,26.63 54.50,33.60 52.87,26.63 45.90,25.00 52.87,23.37" fill="#f3cf7a" /></svg>

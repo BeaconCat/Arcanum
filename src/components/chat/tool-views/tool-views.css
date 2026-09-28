@@ -1,0 +1,58 @@
+/* Shared building blocks for the rich tool-call views (prefixed tv- to stay out of the way). */
+
+.tv { display: flex; flex-direction: column; gap: 12px; min-width: 0; font-size: 0.86rem; color: var(--color-text-primary); }
+.tv-row { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; }
+.tv-muted { color: var(--color-text-muted); font-size: 0.78rem; }
+.tv-title { font-family: var(--font-serif); font-weight: 700; font-size: 0.95rem; }
+.tv-section-label {
+  display: flex; align-items: center; gap: 6px;
+  font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; color: var(--color-text-muted);
+}
+.tv-section-label::after { content: ''; flex: 1; height: 1px; background: var(--color-border); }
+
+.tv-chip {
+  display: inline-flex; align-items: center; gap: 4px;
+  padding: 2px 9px; border-radius: 999px;
+  border: 1px solid var(--color-border); background: var(--color-bg-tertiary);
+  font-size: 0.76rem; line-height: 1.5; color: var(--color-text-secondary); white-space: nowrap;
+}
+.tv-chip.accent { border-color: color-mix(in srgb, var(--color-accent) 30%, var(--color-border)); background: var(--color-accent-soft); color: var(--color-accent); }
+.tv-chip.good { border-color: color-mix(in srgb, var(--color-ji) 30%, var(--color-border)); background: var(--color-ji-soft); color: var(--color-ji); }
+.tv-chip.bad { border-color: color-mix(in srgb, var(--color-xiong) 30%, var(--color-border)); background: var(--color-xiong-soft); color: var(--color-xiong); }
+.tv-chip b { font-weight: 700; color: var(--color-text-primary); }
+
+.tv-tiles { display: grid; grid-template-columns: repeat(auto-fill, minmax(118px, 1fr)); gap: 8px; }
+.tv-tile {
+  display: flex; flex-direction: column; gap: 2px; min-width: 0;
+  padding: 9px 11px; border-radius: var(--radius-md);
+  border: 1px solid var(--color-border); background: var(--color-bg-secondary);
+}
+.tv-tile small { font-size: 0.68rem; letter-spacing: 0.06em; color: var(--color-text-muted); }
+.tv-tile strong { font-family: var(--font-serif); font-size: 1.02rem; overflow-wrap: anywhere; }
+.tv-tile.big strong { font-size: 1.25rem; }
+
+.tv-list { display: flex; flex-direction: column; gap: 6px; }
+.tv-li {
+  display: grid; grid-template-columns: auto 1fr auto; gap: 8px; align-items: center;
+  padding: 7px 10px; border-radius: var(--radius-md);
+  background: color-mix(in srgb, var(--color-bg-tertiary) 60%, transparent);
+}
+.tv-li .tv-li-main { min-width: 0; }
+.tv-li .tv-li-main p { margin-top: 2px; font-size: 0.78rem; color: var(--color-text-secondary); line-height: 1.55; }
+
+.tv-bar { position: relative; height: 6px; border-radius: 999px; background: var(--color-bg-tertiary); overflow: hidden; }
+.tv-bar > i { position: absolute; inset: 0 auto 0 0; border-radius: 999px; background: var(--color-accent); }
+
+.tv-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; background: var(--color-text-muted); }
+.tv-dot.good { background: var(--color-ji); }
+.tv-dot.bad { background: var(--color-xiong); }
+.tv-dot.neutral { background: var(--color-gold); }
+
+.tv-center { display: flex; justify-content: center; }
+.tv-wheel { width: 100%; max-width: 420px; margin: 0 auto; }
+
+.tv-scroll-x { overflow-x: auto; overscroll-behavior-x: contain; }
+
+@media (max-width: 640px) {
+  .tv-tiles { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}

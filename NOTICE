@@ -1,0 +1,85 @@
+天枢 Arcanum
+Copyright (C) 2026 BeaconCat
+
+This program is free software: you can redistribute it and/or modify it under the terms of
+the GNU General Public License as published by the Free Software Foundation, either version 3
+of the License, or (at your option) any later version. See the LICENSE file for details.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+本程序是自由软件：你可以依据自由软件基金会发布的 GNU 通用公共许可证第 3 版（或你选择的任何
+更新版本）重新分发和/或修改它。完整条款见 LICENSE 文件。本程序不提供任何担保。
+
+
+================================================================================
+附加条款 / Additional Terms (GPLv3 Section 7(b))
+================================================================================
+
+依据 GPLv3 第 7 条 (b) 款，本程序附加以下署名要求：
+
+1. 分发本程序或其任何修改版本（源代码或可执行形式）时，必须完整保留本 NOTICE 文件中的
+   作者署名“天枢 Arcanum，作者 BeaconCat”以及原始版权声明。
+2. 若修改版本的交互界面显示“适当的法律声明”（Appropriate Legal Notices，见 GPLv3 第 0 条
+   与第 5 条 (d) 款），其中必须保留“基于 天枢 Arcanum（作者 BeaconCat）”或等效的署名文字。
+3. 修改版本必须以合理方式标明其已被修改，不得让人误以为是原作者发布的版本。
+
+Pursuant to Section 7(b) of the GNU GPL version 3, the following additional terms apply:
+(1) redistributions of this program or of modified versions must preserve the author
+attribution "天枢 Arcanum by BeaconCat" and the copyright notices in this NOTICE file;
+(2) where a modified version's interactive user interface displays Appropriate Legal
+Notices, those notices must retain the attribution "Based on 天枢 Arcanum by BeaconCat" or
+equivalent wording; (3) modified versions must be marked in reasonable ways as different
+from the original version.
+
+
+================================================================================
+第三方软件 / Third-party software
+================================================================================
+
+本项目在运行时依赖以下开源软件（通过 npm 安装，不随仓库分发），版权归各自作者所有：
+
+  lunisolar, @lunisolar/plugin-char8ex  GPL-3.0 / MIT   四柱神煞（本项目采用 GPL 的直接原因）
+  lunar-javascript                      MIT             农历、干支、黄历
+  iztro                                 MIT             紫微斗数排盘
+  astronomy-engine                      MIT             行星位置、小行星数值积分
+  Vue, Vue Router, Pinia, Vite          MIT             前端框架与构建
+  Express, ws, helmet, cors             MIT             后端框架、WebSocket、安全头
+  ECharts / zrender                     Apache-2.0 / BSD-3-Clause   图表
+  d3-geo, topojson-client               ISC             地图投影
+  world-atlas                           ISC             世界地图数据（源自 Natural Earth，公有领域）
+  lucide-vue-next                       ISC             图标
+  marked                                MIT             Markdown 渲染
+  DOMPurify                             MPL-2.0 OR Apache-2.0   HTML 消毒
+  bcryptjs                              BSD-3-Clause    密码哈希
+  jsonwebtoken, nodemailer, js-yaml     MIT / MIT-0 / MIT
+  @fontsource/noto-serif-sc             SIL OFL 1.1     思源宋体（Noto Serif SC）
+  @zumer/snapdom                        MIT             长图导出
+
+完整依赖及许可证可用 `pnpm licenses list --prod` 查看。
+
+
+================================================================================
+数据来源与致谢 / Data sources and acknowledgements
+================================================================================
+
+- 塔罗牌面：Rider–Waite–Smith 塔罗（1909），绘者 Pamela Colman Smith（1878–1951），公有领域。
+  扫描件来自 Wikimedia Commons（Category:Rider-Waite-Smith tarot deck），逐张来源见
+  public/tarot/rws/credits.json。
+
+- 地理坐标：GeoNames（https://www.geonames.org），cities1000 / cities15000，
+  依 CC BY 4.0 许可使用。
+
+- 中国行政区划：province-city-china（https://github.com/uiwjs/province-city-china），MIT，GB/T 2260。
+
+- 小行星轨道根数：This work uses data from the NASA/JPL Small-Body Database, provided by the
+  Jet Propulsion Laboratory, California Institute of Technology.
+  星历由 astronomy-engine 数值积分生成，详见 server/data/ephemeris/README.md。
+
+- 世界地图：Natural Earth（公有领域），经 world-atlas 提供。
+
+- 星盘解读文案（server/data/astro-texts）、塔罗牌义（server/data/tarot）、地理占星文案
+  （server/data/acg-texts.json）为本项目原创内容，随本项目以 GPL-3.0-or-later 发布。
+
+- 铁板神数条文（server/data/tieban）与汉字笔画表（server/data/unicode-strokes.json）：
+  来源待作者补充。

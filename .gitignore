@@ -1,0 +1,24 @@
+# Dependencies & build output
+node_modules/
+/dist/
+.pnpm-store/
+
+# Runtime data (accounts, chats, settings with API keys) — never commit
+/data/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Local artifacts
+/work/
+*.tgz
+*.tmp
+*.log
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

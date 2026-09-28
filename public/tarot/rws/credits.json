@@ -1,0 +1,1179 @@
+{
+ "deck": "rws",
+ "name": "Rider–Waite–Smith（1909）",
+ "artist": "Pamela Colman Smith (1878–1951)",
+ "licence": "Public domain",
+ "source": "Wikimedia Commons — Category:Rider-Waite-Smith tarot deck (TaionWC)",
+ "cards": [
+  {
+   "id": "major-00",
+   "nameEn": "The Fool",
+   "nameZh": "愚人",
+   "commonsFile": "File:RWS Tarot 00 Fool.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_00_Fool.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1144,
+    1919
+   ]
+  },
+  {
+   "id": "major-01",
+   "nameEn": "The Magician",
+   "nameZh": "魔术师",
+   "commonsFile": "File:RWS Tarot 01 Magician.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_01_Magician.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1108,
+    1920
+   ]
+  },
+  {
+   "id": "major-02",
+   "nameEn": "The High Priestess",
+   "nameZh": "女祭司",
+   "commonsFile": "File:RWS Tarot 02 High Priestess.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_02_High_Priestess.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1919
+   ]
+  },
+  {
+   "id": "major-03",
+   "nameEn": "The Empress",
+   "nameZh": "皇后",
+   "commonsFile": "File:RWS Tarot 03 Empress.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_03_Empress.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1123,
+    1920
+   ]
+  },
+  {
+   "id": "major-04",
+   "nameEn": "The Emperor",
+   "nameZh": "皇帝",
+   "commonsFile": "File:RWS Tarot 04 Emperor.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_04_Emperor.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1919
+   ]
+  },
+  {
+   "id": "major-05",
+   "nameEn": "The Hierophant",
+   "nameZh": "教皇",
+   "commonsFile": "File:RWS Tarot 05 Hierophant.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_05_Hierophant.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "major-06",
+   "nameEn": "The Lovers",
+   "nameZh": "恋人",
+   "commonsFile": "File:RWS Tarot 06 Lovers.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_06_Lovers.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1122,
+    1920
+   ]
+  },
+  {
+   "id": "major-07",
+   "nameEn": "The Chariot",
+   "nameZh": "战车",
+   "commonsFile": "File:RWS Tarot 07 Chariot.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_07_Chariot.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1111,
+    1919
+   ]
+  },
+  {
+   "id": "major-08",
+   "nameEn": "Strength",
+   "nameZh": "力量",
+   "commonsFile": "File:RWS Tarot 08 Strength.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_08_Strength.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "major-09",
+   "nameEn": "The Hermit",
+   "nameZh": "隐士",
+   "commonsFile": "File:RWS Tarot 09 Hermit.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_09_Hermit.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1123,
+    1920
+   ]
+  },
+  {
+   "id": "major-10",
+   "nameEn": "Wheel of Fortune",
+   "nameZh": "命运之轮",
+   "commonsFile": "File:RWS Tarot 10 Wheel of Fortune.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_10_Wheel_of_Fortune.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1104,
+    1920
+   ]
+  },
+  {
+   "id": "major-11",
+   "nameEn": "Justice",
+   "nameZh": "正义",
+   "commonsFile": "File:RWS Tarot 11 Justice.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_11_Justice.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "major-12",
+   "nameEn": "The Hanged Man",
+   "nameZh": "倒吊人",
+   "commonsFile": "File:RWS Tarot 12 Hanged Man.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_12_Hanged_Man.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1092,
+    1920
+   ]
+  },
+  {
+   "id": "major-13",
+   "nameEn": "Death",
+   "nameZh": "死神",
+   "commonsFile": "File:RWS Tarot 13 Death.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_13_Death.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1111,
+    1919
+   ]
+  },
+  {
+   "id": "major-14",
+   "nameEn": "Temperance",
+   "nameZh": "节制",
+   "commonsFile": "File:RWS Tarot 14 Temperance.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_14_Temperance.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1106,
+    1920
+   ]
+  },
+  {
+   "id": "major-15",
+   "nameEn": "The Devil",
+   "nameZh": "恶魔",
+   "commonsFile": "File:RWS Tarot 15 Devil.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_15_Devil.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1090,
+    1920
+   ]
+  },
+  {
+   "id": "major-16",
+   "nameEn": "The Tower",
+   "nameZh": "高塔",
+   "commonsFile": "File:RWS Tarot 16 Tower.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_16_Tower.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "major-17",
+   "nameEn": "The Star",
+   "nameZh": "星星",
+   "commonsFile": "File:RWS Tarot 17 Star.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_17_Star.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "major-18",
+   "nameEn": "The Moon",
+   "nameZh": "月亮",
+   "commonsFile": "File:RWS Tarot 18 Moon.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_18_Moon.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1111,
+    1919
+   ]
+  },
+  {
+   "id": "major-19",
+   "nameEn": "The Sun",
+   "nameZh": "太阳",
+   "commonsFile": "File:RWS Tarot 19 Sun.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_19_Sun.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "major-20",
+   "nameEn": "Judgement",
+   "nameZh": "审判",
+   "commonsFile": "File:RWS Tarot 20 Judgement.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_20_Judgement.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "major-21",
+   "nameEn": "The World",
+   "nameZh": "世界",
+   "commonsFile": "File:RWS Tarot 21 World.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ARWS_Tarot_21_World.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1112,
+    1920
+   ]
+  },
+  {
+   "id": "wands-01",
+   "nameEn": "Ace of Wands",
+   "nameZh": "权杖首牌",
+   "commonsFile": "File:Wands01.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands01.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1106,
+    1920
+   ]
+  },
+  {
+   "id": "wands-02",
+   "nameEn": "Two of Wands",
+   "nameZh": "权杖二",
+   "commonsFile": "File:Wands02.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands02.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "wands-03",
+   "nameEn": "Three of Wands",
+   "nameZh": "权杖三",
+   "commonsFile": "File:Wands03.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands03.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1103,
+    1920
+   ]
+  },
+  {
+   "id": "wands-04",
+   "nameEn": "Four of Wands",
+   "nameZh": "权杖四",
+   "commonsFile": "File:Wands04.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands04.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1108,
+    1920
+   ]
+  },
+  {
+   "id": "wands-05",
+   "nameEn": "Five of Wands",
+   "nameZh": "权杖五",
+   "commonsFile": "File:Wands05.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands05.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1108,
+    1920
+   ]
+  },
+  {
+   "id": "wands-06",
+   "nameEn": "Six of Wands",
+   "nameZh": "权杖六",
+   "commonsFile": "File:Wands06.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands06.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1118,
+    1920
+   ]
+  },
+  {
+   "id": "wands-07",
+   "nameEn": "Seven of Wands",
+   "nameZh": "权杖七",
+   "commonsFile": "File:Wands07.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands07.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "wands-08",
+   "nameEn": "Eight of Wands",
+   "nameZh": "权杖八",
+   "commonsFile": "File:Wands08.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands08.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "wands-09",
+   "nameEn": "Nine of Wands",
+   "nameZh": "权杖九",
+   "commonsFile": "File:Wands09.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands09.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "wands-10",
+   "nameEn": "Ten of Wands",
+   "nameZh": "权杖十",
+   "commonsFile": "File:Wands10.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands10.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1101,
+    1920
+   ]
+  },
+  {
+   "id": "wands-11",
+   "nameEn": "Page of Wands",
+   "nameZh": "权杖侍从",
+   "commonsFile": "File:Wands11.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands11.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "wands-12",
+   "nameEn": "Knight of Wands",
+   "nameZh": "权杖骑士",
+   "commonsFile": "File:Wands12.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands12.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "wands-13",
+   "nameEn": "Queen of Wands",
+   "nameZh": "权杖王后",
+   "commonsFile": "File:Wands13.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands13.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1118,
+    1920
+   ]
+  },
+  {
+   "id": "wands-14",
+   "nameEn": "King of Wands",
+   "nameZh": "权杖国王",
+   "commonsFile": "File:Wands14.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3AWands14.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1104,
+    1920
+   ]
+  },
+  {
+   "id": "cups-01",
+   "nameEn": "Ace of Cups",
+   "nameZh": "圣杯首牌",
+   "commonsFile": "File:Cups01.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups01.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1112,
+    1920
+   ]
+  },
+  {
+   "id": "cups-02",
+   "nameEn": "Two of Cups",
+   "nameZh": "圣杯二",
+   "commonsFile": "File:Cups02.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups02.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "cups-03",
+   "nameEn": "Three of Cups",
+   "nameZh": "圣杯三",
+   "commonsFile": "File:Cups03.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups03.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1919
+   ]
+  },
+  {
+   "id": "cups-04",
+   "nameEn": "Four of Cups",
+   "nameZh": "圣杯四",
+   "commonsFile": "File:Cups04.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups04.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1118,
+    1920
+   ]
+  },
+  {
+   "id": "cups-05",
+   "nameEn": "Five of Cups",
+   "nameZh": "圣杯五",
+   "commonsFile": "File:Cups05.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups05.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1121,
+    1920
+   ]
+  },
+  {
+   "id": "cups-06",
+   "nameEn": "Six of Cups",
+   "nameZh": "圣杯六",
+   "commonsFile": "File:Cups06.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups06.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "cups-07",
+   "nameEn": "Seven of Cups",
+   "nameZh": "圣杯七",
+   "commonsFile": "File:Cups07.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups07.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "cups-08",
+   "nameEn": "Eight of Cups",
+   "nameZh": "圣杯八",
+   "commonsFile": "File:Cups08.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups08.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "cups-09",
+   "nameEn": "Nine of Cups",
+   "nameZh": "圣杯九",
+   "commonsFile": "File:Cups09.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups09.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "cups-10",
+   "nameEn": "Ten of Cups",
+   "nameZh": "圣杯十",
+   "commonsFile": "File:Cups10.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups10.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "cups-11",
+   "nameEn": "Page of Cups",
+   "nameZh": "圣杯侍从",
+   "commonsFile": "File:Cups11.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups11.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "cups-12",
+   "nameEn": "Knight of Cups",
+   "nameZh": "圣杯骑士",
+   "commonsFile": "File:Cups12.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups12.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "cups-13",
+   "nameEn": "Queen of Cups",
+   "nameZh": "圣杯王后",
+   "commonsFile": "File:Cups13.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups13.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "cups-14",
+   "nameEn": "King of Cups",
+   "nameZh": "圣杯国王",
+   "commonsFile": "File:Cups14.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ACups14.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1121,
+    1920
+   ]
+  },
+  {
+   "id": "swords-01",
+   "nameEn": "Ace of Swords",
+   "nameZh": "宝剑首牌",
+   "commonsFile": "File:Swords01.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords01.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "swords-02",
+   "nameEn": "Two of Swords",
+   "nameZh": "宝剑二",
+   "commonsFile": "File:Swords02.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords02.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1121,
+    1920
+   ]
+  },
+  {
+   "id": "swords-03",
+   "nameEn": "Three of Swords",
+   "nameZh": "宝剑三",
+   "commonsFile": "File:Swords03.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords03.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1103,
+    1920
+   ]
+  },
+  {
+   "id": "swords-04",
+   "nameEn": "Four of Swords",
+   "nameZh": "宝剑四",
+   "commonsFile": "File:Swords04.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords04.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1919
+   ]
+  },
+  {
+   "id": "swords-05",
+   "nameEn": "Five of Swords",
+   "nameZh": "宝剑五",
+   "commonsFile": "File:Swords05.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords05.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "swords-06",
+   "nameEn": "Six of Swords",
+   "nameZh": "宝剑六",
+   "commonsFile": "File:Swords06.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords06.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1111,
+    1919
+   ]
+  },
+  {
+   "id": "swords-07",
+   "nameEn": "Seven of Swords",
+   "nameZh": "宝剑七",
+   "commonsFile": "File:Swords07.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords07.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "swords-08",
+   "nameEn": "Eight of Swords",
+   "nameZh": "宝剑八",
+   "commonsFile": "File:Swords08.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords08.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "swords-09",
+   "nameEn": "Nine of Swords",
+   "nameZh": "宝剑九",
+   "commonsFile": "File:Swords09.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords09.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "swords-10",
+   "nameEn": "Ten of Swords",
+   "nameZh": "宝剑十",
+   "commonsFile": "File:Swords10.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords10.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1107,
+    1920
+   ]
+  },
+  {
+   "id": "swords-11",
+   "nameEn": "Page of Swords",
+   "nameZh": "宝剑侍从",
+   "commonsFile": "File:Swords11.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords11.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1108,
+    1920
+   ]
+  },
+  {
+   "id": "swords-12",
+   "nameEn": "Knight of Swords",
+   "nameZh": "宝剑骑士",
+   "commonsFile": "File:Swords12.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords12.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1112,
+    1920
+   ]
+  },
+  {
+   "id": "swords-13",
+   "nameEn": "Queen of Swords",
+   "nameZh": "宝剑王后",
+   "commonsFile": "File:Swords13.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords13.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1104,
+    1920
+   ]
+  },
+  {
+   "id": "swords-14",
+   "nameEn": "King of Swords",
+   "nameZh": "宝剑国王",
+   "commonsFile": "File:Swords14.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3ASwords14.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1919
+   ]
+  },
+  {
+   "id": "pentacles-01",
+   "nameEn": "Ace of Pentacles",
+   "nameZh": "星币首牌",
+   "commonsFile": "File:Pents01.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents01.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-02",
+   "nameEn": "Two of Pentacles",
+   "nameZh": "星币二",
+   "commonsFile": "File:Pents02.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents02.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1112,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-03",
+   "nameEn": "Three of Pentacles",
+   "nameZh": "星币三",
+   "commonsFile": "File:Pents03.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents03.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1919
+   ]
+  },
+  {
+   "id": "pentacles-04",
+   "nameEn": "Four of Pentacles",
+   "nameZh": "星币四",
+   "commonsFile": "File:Pents04.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents04.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1110,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-05",
+   "nameEn": "Five of Pentacles",
+   "nameZh": "星币五",
+   "commonsFile": "File:Pents05.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents05.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1112,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-06",
+   "nameEn": "Six of Pentacles",
+   "nameZh": "星币六",
+   "commonsFile": "File:Pents06.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents06.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-07",
+   "nameEn": "Seven of Pentacles",
+   "nameZh": "星币七",
+   "commonsFile": "File:Pents07.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents07.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1114,
+    1919
+   ]
+  },
+  {
+   "id": "pentacles-08",
+   "nameEn": "Eight of Pentacles",
+   "nameZh": "星币八",
+   "commonsFile": "File:Pents08.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents08.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1117,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-09",
+   "nameEn": "Nine of Pentacles",
+   "nameZh": "星币九",
+   "commonsFile": "File:Pents09.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents09.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1108,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-10",
+   "nameEn": "Ten of Pentacles",
+   "nameZh": "星币十",
+   "commonsFile": "File:Pents10.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents10.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1115,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-11",
+   "nameEn": "Page of Pentacles",
+   "nameZh": "星币侍从",
+   "commonsFile": "File:Pents11.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents11.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1112,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-12",
+   "nameEn": "Knight of Pentacles",
+   "nameZh": "星币骑士",
+   "commonsFile": "File:Pents12.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents12.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1111,
+    1919
+   ]
+  },
+  {
+   "id": "pentacles-13",
+   "nameEn": "Queen of Pentacles",
+   "nameZh": "星币王后",
+   "commonsFile": "File:Pents13.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents13.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1109,
+    1920
+   ]
+  },
+  {
+   "id": "pentacles-14",
+   "nameEn": "King of Pentacles",
+   "nameZh": "星币国王",
+   "commonsFile": "File:Pents14.jpg",
+   "commonsPage": "https://commons.wikimedia.org/wiki/File%3APents14.jpg",
+   "artist": "Pamela Colman Smith",
+   "licence": "Public domain",
+   "date": "1910",
+   "scanSource": "http://muzendo.jp/blog/",
+   "originalSize": [
+    1107,
+    1920
+   ]
+  }
+ ]
+}
